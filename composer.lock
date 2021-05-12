@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5dae0eb28c8d17e63de12549d76fde47",
+    "content-hash": "545bd7f8e02fd2d89c5103e7b5127d51",
     "packages": [
         {
             "name": "benlumia007/backdrop-core",
-            "version": "1.1.1",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/benlumia007/backdrop-core.git",
-                "reference": "3dd08858b47127d7d002bebe9a6fed71e02528ed"
+                "reference": "2028b7a9094b8effc8da08eadf335f21951e582c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/benlumia007/backdrop-core/zipball/3dd08858b47127d7d002bebe9a6fed71e02528ed",
-                "reference": "3dd08858b47127d7d002bebe9a6fed71e02528ed",
+                "url": "https://api.github.com/repos/benlumia007/backdrop-core/zipball/2028b7a9094b8effc8da08eadf335f21951e582c",
+                "reference": "2028b7a9094b8effc8da08eadf335f21951e582c",
                 "shasum": ""
             },
             "require": {
@@ -54,9 +54,9 @@
             ],
             "support": {
                 "issues": "https://github.com/benlumia007/backdrop-core/issues",
-                "source": "https://github.com/benlumia007/backdrop-core/tree/1.1.1"
+                "source": "https://github.com/benlumia007/backdrop-core/tree/2.0.1"
             },
-            "time": "2020-04-11T05:21:03+00:00"
+            "time": "2021-02-23T19:12:16+00:00"
         }
     ],
     "packages-dev": [],
